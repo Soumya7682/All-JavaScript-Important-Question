@@ -41,4 +41,4 @@ while(num>0){
 console.log(rev);
 
 
-//These are the practices thing
+//These are the practices thing so you can follow tha file 1,2,3
