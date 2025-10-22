@@ -39,3 +39,6 @@ while(num>0){
 
 }
 console.log(rev);
+
+
+//These are the practices thing
